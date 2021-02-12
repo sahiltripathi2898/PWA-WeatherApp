@@ -1,14 +1,9 @@
-# Weather Progressive Web Application
+# Progressive Web App using ReactJS and OpenWeather API
 ![Weather Data](https://i.imgur.com/3csowzj.png)
+![alt text](PWA.png)
 
-### [Live Site](https://inspiring-bhaskara-d21f88.netlify.app)
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
-
-In this video, we will create a PWA. We're going to use React with service workers.
-
-By the end of this video, you will have a strong understanding of what PWA is and how you can build, deploy and publish it.
+### [Live Site](https://master.d3u3no45x76s24.amplifyapp.com/)
 
 Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
+- run ```npm i && npm start``` 
